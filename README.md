@@ -2,7 +2,7 @@
 MAQUETA_BASICA_HTML_Y_CSS RESPONSIVA
 ## Mi Primer Proyecto Web con HTML y CSS, donde he aprendido a crear una Maqueta Basica con Diseño Adaptativo y Reponsive.
 
-## Quieres ver mi Web-Entra en este enlace: https://juancitopena.github.io/MAQUETA_BASICA_HTML_Y_CSS/
+## Quieres ver mi Web-Entra en este enlace: https://adrianfermin.github.io/IHC2/
 
 ### Captura de Pantalla en Diferentes Dispositivos:
 
